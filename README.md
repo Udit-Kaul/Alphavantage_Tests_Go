@@ -1,12 +1,12 @@
 # AlphaVantage Test Automation Framework
 
-This test automation framework is designed to test the AlphaVantage API endpoints using Jest, Babel, and Jest-Cucumber.
+This test automation framework is designed to test the AlphaVantage API endpoints using GoLang and Ginkgo.
 
 ## Installation
 
 1. Clone the repository:
     ```
-    git clone https://github.com/Udit-Kaul/Alpha_Vantage_Tests.git
+    git clone https://github.com/Udit-Kaul/Alphavantage_Tests_Go.git
     ```
 2. Install Node Modules
    ```
